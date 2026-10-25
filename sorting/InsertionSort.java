@@ -22,7 +22,7 @@ public class InsertionSort {
         int[] numbers= { 5, 4, 7, 3, 2 ,9, 1};
         System.out.println("Before: "+ Arrays.toString(numbers));
         insertionSort(numbers);
-        System.out.println("After: " + Arrays.toString(numbers));
+        System.out.println(@)
     }
 
 }
